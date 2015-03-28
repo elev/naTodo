@@ -22,4 +22,4 @@ require('./app/routes')(app);
 
 // listen ========================================
 app.listen(8080);
-console.log('whispers like a snake on 8080');
+console.log('listening on 8080');
