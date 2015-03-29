@@ -9,11 +9,10 @@ A todo list that supports sorting by different types of todos.
 
 ## Current Tasks
 
-* Add .gitignore
-* Add liscense
 * Allow a user to filter todos by type
-* Wireframe and update the UI accordingly
-  * keep it simple, maybe play around with material design concepts
+* Build out UI to mimic wireframe.
+  * bring in sass
+  * integrate gulp to compile sass and refresh browser automatically
 * Learn all the unit testing
 * Merge the front end files for faster loadtimes
 * Remove JQuery
