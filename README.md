@@ -5,6 +5,7 @@ A todo list that supports sorting by different types of todos.
 ## Tools Used
 * node.js
 * angularJS
+* mongoDB
 
 ## Current Tasks
 
